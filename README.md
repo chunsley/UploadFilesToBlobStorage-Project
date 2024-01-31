@@ -26,6 +26,8 @@ UploadFilesToBlobStorage is a command-line interface (CLI) tool designed to simp
 
 ## Usage 
 
+Rename the varibles within the 'blob_file_upload()' function in line with your storage account.
+
 To upload a file to Azure Blob Storage, use the following command:
 
 ```bash
