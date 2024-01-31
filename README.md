@@ -39,7 +39,7 @@ To upload multiple files to Azure Blob Storage, use the following command:
 
 Here is a screenshot of the tool in action: 
 
-![UploadFileToBlobResult](https://github.com/chunsley/UploadFilesToBlobStorage-Project/assets/157833375/82a8cfe3-3c41-4084-bbed-a300596769d9)
+![UploadFileToBlobResult](https://github.com/chunsley/UploadFilesToBlobStorage-Project/assets/157833375/abe84fd0-9a9d-4e02-b113-f3a828d08b40)
 
 ## Troubleshooting
 
