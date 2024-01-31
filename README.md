@@ -5,7 +5,7 @@ UploadFilesToBlobStorage is a command-line interface (CLI) tool designed to simp
 ## Features
 
 - Easy authentication with Azure.
-- Multiple files Upload directly to your Azure Blob Storage container.
+- Multiple files upload directly to your Azure Blob Storage container.
 
 ## Prerequisites
 
@@ -36,6 +36,10 @@ To upload multiple files to Azure Blob Storage, use the following command:
 ```bash
 ./fileuploadscript.sh /path/to/file1 /path/to/file2 ...
 ```
+
+Here is a screenshot of the tool in action: 
+
+![UploadFileToBlobResult](https://github.com/chunsley/UploadFilesToBlobStorage-Project/assets/157833375/82a8cfe3-3c41-4084-bbed-a300596769d9)
 
 ## Troubleshooting
 
